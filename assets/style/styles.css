@@ -159,11 +159,25 @@ header ul li a {
     font-size: 2em;
 }
 
-.dayNight ion-icon:nth-child(2), 
-.banner.night .dayNight ion-icon:nth-child(1) {
-    display: none;
+.banner.night .dayNight {
+    background: #444;
+    color: #fff;
+}
+
+.dayNight ion-icon:nth-child(2), .banner.night .dayNight ion-icon:nth-child(1) {
+    display: none;   
 }
 
 .banner.night .dayNight ion-icon:nth-child(2) {
     display: block;
+}
+
+.banner.night header .logo, 
+.banner.night header ul li a, 
+.banner.night .content h2, 
+.banner.night .content h3, 
+.banner.night .content p, 
+.banner.night .content button.chat, 
+.banner.night .redes li a {
+    color: #fff;
 }
