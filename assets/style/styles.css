@@ -190,4 +190,28 @@ header ul li a {
     position: absolute;
     right: 0;
     max-width: 800px;
+    animation: animateColor 8s ease-in-out infinite;
+}
+
+@keyframes animateColor {
+    0% {
+        transform: translateY(0px);
+    }
+
+    100% {
+        transform: translateY(50px);
+    }
+}
+
+.men {
+    position: absolute;
+    right: 100px;
+    bottom: 0;
+    max-height: 85vh;
+    animation: animateMen 8s ease-in-out infinite;
+}
+
+@keyframes animateMen {
+    
+    
 }
