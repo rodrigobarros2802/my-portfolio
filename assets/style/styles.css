@@ -137,3 +137,20 @@ header ul li a {
 .redes li a:hover {
     color: #2196f3;
 }
+
+.dayNight {
+    position: absolute;
+    bottom: 25px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 60px;
+    background: #f0f0f0;
+    border-radius: 50%;
+    color: #666;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: 0.5s;
+    font-size: 2em;
+}
