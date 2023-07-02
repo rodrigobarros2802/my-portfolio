@@ -39,3 +39,12 @@ header .logo {
 header .logo span {
     color: #2196f3;
 }
+
+header ul {
+    display: flex;
+    gap: 40px;
+}
+
+header ul li {
+    list-style: none;
+}
