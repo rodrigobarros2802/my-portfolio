@@ -194,11 +194,11 @@ header ul li a {
 }
 
 @keyframes animateColor {
-    0% {
+    0%, 100% {
         transform: translateY(0px);
     }
 
-    100% {
+    50% {
         transform: translateY(50px);
     }
 }
@@ -212,6 +212,11 @@ header ul li a {
 }
 
 @keyframes animateMen {
-    
-    
+    0%, 100% {
+        transform: translateX(0px);
+    }
+
+    50% {
+        transform: translateX(-50px);
+    }
 }
