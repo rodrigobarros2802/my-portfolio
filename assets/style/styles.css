@@ -116,3 +116,18 @@ header ul li a {
     color: #e91e63;
     font-size: 1.5em;
 }
+
+.redes {
+    position: absolute;
+    bottom: 30px;
+    display: flex;
+    gap: 20px;
+}
+
+.redes li {
+    list-style: none;
+}
+
+.redes li a {
+    text-decoration: none;
+}
