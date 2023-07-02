@@ -185,3 +185,9 @@ header ul li a {
 .banner.night .redes li a:hover {
     color: #2196f3;
 }
+
+.colors {
+    position: absolute;
+    right: 0;
+    max-width: 800px;
+}
