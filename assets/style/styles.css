@@ -219,7 +219,7 @@ header ul li a {
 
 .men {
     position: absolute;
-    right: 100px;
+    right: 150px;
     bottom: 0;
     max-height: 85vh;
     animation: animateMen 8s ease-in-out infinite;
