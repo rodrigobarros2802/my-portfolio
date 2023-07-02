@@ -8,6 +8,9 @@ dayNight.onclick = function() {
 
 //Mudando os nomes
 let typingText = new Typed("#name", {
-    strings : ["Rodrigo", "Coder", "Developer"],
+    strings : ["Rodrigo", "Coder", "Front-End"],
     loop : true,
+    typeSpeed : 100,
+    backSpeed : 50,
+    delaySpeed : 1000,
 })
