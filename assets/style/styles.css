@@ -30,6 +30,9 @@
     width: 150px;
     height: 150px;
     background: url(/assets/img/dotted.png);
+    background-size: cover;
+    animation: animateColor 10s linear infinite;
+    transition-delay: -5px;
 }
 
 header {
