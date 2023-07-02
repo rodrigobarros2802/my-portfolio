@@ -154,3 +154,7 @@ header ul li a {
     transition: 0.5s;
     font-size: 2em;
 }
+
+.dayNight ion-icon:nth-child(2) {
+    display: none;
+}
