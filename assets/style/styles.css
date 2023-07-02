@@ -88,3 +88,10 @@ header ul li a {
     margin: 10px 0;
     transition: 0.5s;
 }
+
+.content button {
+    position: relative;
+    background: #2196f3;
+    color: #fff;
+    border: none;
+}
