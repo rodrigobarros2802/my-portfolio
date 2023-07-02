@@ -18,6 +18,10 @@
     transition: 0.05s;
 }
 
+.banner.night {
+    background: #333;
+}
+
 header {
     position: absolute;
     top: 0;
