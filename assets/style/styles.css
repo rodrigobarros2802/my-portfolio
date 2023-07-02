@@ -35,3 +35,7 @@ header .logo {
     text-decoration: none;
     transition: 0.5s;
 }
+
+header .logo span {
+    color: #2196f3;
+}
