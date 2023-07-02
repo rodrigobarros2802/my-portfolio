@@ -48,3 +48,10 @@ header ul {
 header ul li {
     list-style: none;
 }
+
+header ul li a {
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1.2em;
+    color: #333;
+}
