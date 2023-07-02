@@ -75,6 +75,14 @@ header ul li a {
     transition: 0.5s;
 }
 
+header ul li a:hover {
+    color: #2196f3;
+}
+
+.banner.night header ul li a:hover {
+    color: #2196f3;
+}
+
 .content {
     position: relative;
     max-width: 700px;
