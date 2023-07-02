@@ -181,3 +181,7 @@ header ul li a {
 .banner.night .redes li a {
     color: #fff;
 }
+
+.banner.night .redes li a:hover {
+    color: #2196f3;
+}
