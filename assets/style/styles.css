@@ -57,3 +57,16 @@ header ul li a {
     color: #333;
     transition: 0.5s;
 }
+
+.content {
+    position: relative;
+    max-width: 700px;
+    z-index: 10;
+}
+
+.content h3 {
+    font-size: 2em;
+    color: #333;
+    font-weight: 200;
+    transition: 0.5s;
+}
