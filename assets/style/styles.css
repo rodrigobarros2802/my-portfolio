@@ -159,6 +159,11 @@ header ul li a {
     font-size: 2em;
 }
 
-.dayNight ion-icon:nth-child(2) {
+.dayNight ion-icon:nth-child(2), 
+.banner.night .dayNight ion-icon:nth-child(1) {
     display: none;
+}
+
+.banner.night .dayNight ion-icon:nth-child(2) {
+    display: block;
 }
