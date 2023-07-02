@@ -3,4 +3,5 @@ let dayNight = document.querySelector('.dayNight');
 
 dayNight.onclick = function() {
     banner.classList.toggle('night');
-} 
+}
+
