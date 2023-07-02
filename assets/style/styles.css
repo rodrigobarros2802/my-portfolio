@@ -77,3 +77,7 @@ header ul li a {
     color: #333;
     transition: 0.5s;
 }
+
+.content h2 span {
+    color: #e91e63;
+}
