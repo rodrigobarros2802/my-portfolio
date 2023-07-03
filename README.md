@@ -30,7 +30,11 @@
 <h3 align="center">Criar um portfólio exclusivo para mim e assim sendo, usa-lo como minha página com todas as minhas informações.</h3>
 
 <h1 align="center">:open_book: Aprendizado</h1>
-<p align="center"></p>
+<h3 align="center">Estou cada vez mais me dedicando e encarando Java Script, dessa vez tive o privilégio de desenvolver e praticar JS e aplicando arrays.</h3>
+
+<div align="center">
+<img align="center" src="assets/img/arrays1.png">
+</div>
 
 <h1 align="center">:camera: Imagens do Projeto</h1>
 
