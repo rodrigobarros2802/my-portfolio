@@ -62,7 +62,7 @@
 
 <h1 align="center">:movie_camera: Vídeo Apresentação do Projeto</h1>
 <p align="center">
-<img width="600" height="300" src="assets/img/video-apresentacao.mp4">
+<img width="600" height="300" src="assets/img/video-apresentacao.gif">
 </p>
 
 <h1 align="center">:iphone: Mobile</h1>
