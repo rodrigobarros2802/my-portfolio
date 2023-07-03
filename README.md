@@ -38,6 +38,26 @@
 
 <h1 align="center">:camera: Imagens do Projeto</h1>
 
+<h3>Imagem 1</h3>
+<div align="center">
+<img align="center" src="assets/img/img1.png">
+</div>
+
+<h3>Imagem 2</h3>
+<div align="center">
+<img align="center" src="assets/img/img2.png">
+</div>
+
+<h3>Imagem 3</h3>
+<div align="center">
+<img align="center" src="assets/img/img3.png">
+</div>
+
+<h3>Imagem 4</h3>
+<div align="center">
+<img align="center" src="assets/img/img4.png">
+</div>
+
 <h1 align="center">Responsividade :iphone: :computer: :desktop_computer:</h1>
 
 <h1 align="center">:movie_camera: Vídeo Apresentação do Projeto</h1>
