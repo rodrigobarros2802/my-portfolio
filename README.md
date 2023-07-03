@@ -1,4 +1,4 @@
-<h1 align="center">:triangular_ruler: Nome do Projeto</h1>
+<h1 align="center">:triangular_ruler: Landing Page Portfólio</h1>
 
 # :memo: Índice
 * [:chart_with_upwards_trend: Proposta]()
@@ -16,18 +16,18 @@
 * [:technologist: Autor]()
 
 <h1 align="center">:chart_with_upwards_trend: Proposta</h1>
-<p align="center"></p>
+<h3 align="center">Projeto desenvolvido com o propósito de enriquecer meu portfólio e criar uma identidade minha, facilitando o contato dos recrutadores.</h3>
 
 <h1 align="center">:trophy: Desafio</h1>
-<p align="center"></p>
+<h3 align="center">Me arriscar cada vez mais na Linguagem Java Script usando arrays.</h3>
 
 <h1 align="center">:hammer_and_wrench: Tecnologias</h1>
-<p align="center">Java Script</p>
-<p align="center">HTML5</p>
-<p align="center">CSS</p>
+<h3 align="center">Java Script</h3>
+<h3 align="center">HTML5</h3>
+<h3 align="center">CSS</h3>
 
 <h1 align="center">:dart: Objetivo</h1>
-<p align="center"></p>
+<h3 align="center">Criar um portfólio exclusivo para mim e assim sendo, usa-lo como minha página com todas as minhas informações.</h3>
 
 <h1 align="center">:open_book: Aprendizado</h1>
 <p align="center"></p>
