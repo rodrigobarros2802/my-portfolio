@@ -1,9 +1,9 @@
 <h1 align="center">:triangular_ruler: Landing Page Portfólio</h1>
 
 # :memo: Índice
-* [:chart_with_upwards_trend: Proposta]()
-* [:trophy: Desafio]()
-* [:hammer_and_wrench: Tecnologias]()
+* [:chart_with_upwards_trend: Proposta](https://github.com/rodrigobarros2802/my-portfolio/edit/main/README.md#chart_with_upwards_trend-proposta)
+* [:trophy: Desafio](https://github.com/rodrigobarros2802/my-portfolio/edit/main/README.md#trophy-desafio)
+* [:hammer_and_wrench: Tecnologias](https://github.com/rodrigobarros2802/my-portfolio/edit/main/README.md#hammer_and_wrench-tecnologias)
 * [:dart: Objetivo]()
 * [:open_book: Aprendizado]()
 * [:camera: Imagens do Projeto]()
@@ -75,10 +75,12 @@
 <p align="center"><img src=""></p>
 
 <h1 align="center">:link: Links</h1>
-<p align="center"></p>
+<h3 align="center">Deploy GitHub Pages - https://rodrigobarros2802.github.io/my-portfolio/</h3>
 
 <h1 align="center">:technologist: Autor</h1>
-<p align="center">LinkedIn - https://www.linkedin.com/in/rodrigobarros2802/</p>
+<h3 align="center">LinkedIn - https://www.linkedin.com/in/rodrigobarros2802/</h3>
 
-<p align="center">GitHub - https://github.com/rodrigobarros2802</p> 
---------------------------------------------------
+<h3 align="center">GitHub - https://github.com/rodrigobarros2802</h3> 
+
+<h3 align="center">Portfólio Online - https://rodrigobarros2802.github.io/my-portfolio/</h3>
+
