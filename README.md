@@ -1,9 +1,9 @@
 <h1 align="center">:triangular_ruler: Landing Page Portfólio</h1>
 
 # :memo: Índice
-* [:chart_with_upwards_trend: Proposta](https://github.com/rodrigobarros2802/my-portfolio/edit/main/README.md#chart_with_upwards_trend-proposta)
-* [:trophy: Desafio](https://github.com/rodrigobarros2802/my-portfolio/edit/main/README.md#trophy-desafio)
-* [:hammer_and_wrench: Tecnologias](https://github.com/rodrigobarros2802/my-portfolio/edit/main/README.md#hammer_and_wrench-tecnologias)
+* [:chart_with_upwards_trend: Proposta]()
+* [:trophy: Desafio]()
+* [:hammer_and_wrench: Tecnologias]()
 * [:dart: Objetivo]()
 * [:open_book: Aprendizado]()
 * [:camera: Imagens do Projeto]()
